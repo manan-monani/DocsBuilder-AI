@@ -1,0 +1,68 @@
+PROPRIETARY SOFTWARE LICENSE
+
+Copyright (c) 2024-2026 Manan Monani. All Rights Reserved.
+
+NOTICE: This software and all associated documentation files (the "Software")
+are the exclusive proprietary property of Manan Monani (the "Owner").
+
+1. RESTRICTIONS
+
+   This Software is NOT open-source. The following actions are strictly
+   PROHIBITED without prior written consent from the Owner:
+
+   a) Copying, reproducing, or duplicating the Software, in whole or in part.
+   b) Modifying, adapting, translating, or creating derivative works based on
+      the Software.
+   c) Distributing, sublicensing, leasing, lending, renting, or otherwise
+      transferring the Software or any rights therein to any third party.
+   d) Reverse engineering, decompiling, disassembling, or otherwise attempting
+      to derive the source code of the Software.
+   e) Using the Software for commercial or non-commercial purposes without
+      explicit authorization.
+   f) Contributing to, forking, or submitting pull requests to this repository.
+   g) Using any portion of the code, design, architecture, or documentation
+      in other projects.
+
+2. NO OPEN-SOURCE GRANT
+
+   This Software is NOT released under any open-source license. No rights are
+   granted under the MIT License, Apache License, GPL, or any other open-source
+   or permissive license. Any reference to "MIT" or similar licenses in
+   third-party dependency files (e.g., composer.json, package-lock.json) applies
+   ONLY to those third-party packages and does NOT extend to this Software.
+
+3. NO CONTRIBUTIONS
+
+   This project does NOT accept external contributions of any kind. Pull
+   requests, issues, and feature requests from unauthorized parties will be
+   rejected and deleted.
+
+4. OWNERSHIP
+
+   All intellectual property rights, including but not limited to copyrights,
+   trademarks, trade secrets, and patents related to the Software, are and
+   shall remain the sole property of the Owner.
+
+5. DISCLAIMER OF WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL
+   THE OWNER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN
+   AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN
+   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+6. TERMINATION
+
+   Any unauthorized use, copying, or distribution of the Software will result
+   in immediate legal action. The Owner reserves the right to pursue all
+   available legal remedies.
+
+7. GOVERNING LAW
+
+   This license shall be governed by and construed in accordance with
+   applicable laws. Any disputes arising from this license shall be resolved
+   in the courts of the Owner's jurisdiction.
+
+For permissions, licensing inquiries, or any other questions, contact:
+Manan Monani <mmmonani747@gmail.com>
