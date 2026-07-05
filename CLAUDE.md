@@ -254,3 +254,25 @@ Wayfinder generates TypeScript functions for Laravel routes. Import from `@/acti
 - CRITICAL: ALWAYS use `search-docs` tool for version-specific Pest documentation and updated code examples.
 - IMPORTANT: Activate `pest-testing` every time you're working with a Pest or testing-related task.
 </laravel-boost-guidelines>
+
+## Project Artifacts Management
+
+### On Chat Start (Every Conversation — New or Resumed)
+- Check if `.artifacts/` exists in the project root.
+- If it exists, scan `.artifacts/index.md` for a summary of prior work across all previous chats.
+- If `.artifacts/rules.md` exists, read and follow those custom rules. They override defaults.
+- Scan `.artifacts/plans/`, `.artifacts/walkthroughs/`, and `.artifacts/notes/` for existing context relevant to the current task.
+
+### On Chat End (When Completing Work)
+- Save key artifacts to `.artifacts/` in the project root:
+  - Implementation plans → `.artifacts/plans/`
+  - Walkthroughs → `.artifacts/walkthroughs/`
+  - Research notes and analysis → `.artifacts/notes/`
+  - Temporary/scratch files → `.artifacts/scratch/`
+- Use date-prefixed filenames: `YYYY-MM-DD_<short-description>.md`
+- Update `.artifacts/index.md` with a summary entry for each new artifact.
+
+### Artifact Rules
+- NEVER delete existing artifacts in `.artifacts/` without explicit user approval.
+- When resuming work from a previous chat, reference the relevant artifacts in `.artifacts/` to maintain continuity.
+- If `.artifacts/rules.md` defines custom rules, follow those rules. Otherwise, follow the defaults above.

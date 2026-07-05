@@ -1,0 +1,12 @@
+{
+  "copy-artifacts-to-project": {
+    "enabled": true,
+    "Stop": [
+      {
+        "type": "command",
+        "command": "powershell.exe -ExecutionPolicy Bypass -File .agents/hooks/copy_artifacts.ps1",
+        "timeout": 30
+      }
+    ]
+  }
+}

@@ -25,3 +25,5 @@ yarn-error.log
 /.nova
 /.vscode
 /.zed
+/.artifacts/scratch/*
+!/.artifacts/scratch/.gitkeep
